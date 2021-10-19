@@ -1,0 +1,26 @@
+
+
+/*------------------------------------------------------------------
+* Project:        Travel Material 
+* Author:         Crenoveative 
+* URL:            http://crenoveative.com or https://themeforest.net/user/crenoveative/portfolio 
+* Created:        20/05/2019 
+-------------------------------------------------------------------*/
+
+
+/** 
+ * Add your style here 
+ */ 
+
+.btn-outline.btn-sm { text-transform: capitalize; letter-spacing: 0; border: 1px solid #E3E5E7; padding: 5px 10px; line-height: 1; box-shadow: 0 2px 15px rgba(0, 0, 0, 0.13); }
+.btn-white { background-color: #FFF; }
+.btn-white.btn-outline:hover { box-shadow: 0 2px 15px rgba(0, 0, 0, 0.3); }
+
+.rating-btn{
+    font-size: 12px!important;
+    font-weight: 700!important;
+    border-radius: 2px!important;
+    padding: 2px 4px 0!important;
+    margin-right: 3px!important;
+    display: inline-block!important;
+}

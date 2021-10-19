@@ -1,0 +1,104 @@
+.br{
+    box-shadow: 0 0 0 2px #0071c2;
+
+    border-radius: 4px;
+
+    padding: 30px;
+}
+.f-12{
+    font-size: 12px;
+}
+.m-r-12{
+    margin-right: 12px;
+}
+
+.delete-btn{
+    border-radius: 4px;
+    background-color: #b70a0a;
+    color: white;
+    padding: 5px;
+}
+
+.edit-btn{
+    border-radius: 4px;
+    background-color: #1d076c;
+    color: white;
+    padding: 5px;
+}
+.succes-btn{
+    border-radius: 4px;
+    background-color: #036008;
+    color: white;
+    padding: 5px;
+}
+
+.delete-btn-p{
+    border-radius: 4px;
+    background-color: #b70a0a;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    margin: 5px;
+}
+
+.f-50{
+    font-size: 50px;
+}
+.img-b-radius{
+    border-radius: 0px 4px 4px 0px;
+}
+#sc-bar{
+    scrollbar-width: none !important;
+    overflow-y: auto;
+    height: 600px;   
+}
+.star-s{
+    font-size: 25px;margin-right: 5px;
+}
+.rating-s{
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+}
+.show-result {
+    margin: 10px;
+    padding: 10px;
+    color: green;
+    font-size: 20px;
+}
+
+.star-rating .star-s:hover,
+.star-rating .star-s.active {
+    color: #fdac41;
+}
+.star-rating-rtl .star-s:hover,
+.star-rating-rtl .star-s.active {
+    color: #fdac41;
+}
+
+.star-rating .star-s,
+.star-rating-rtl .star-s {
+
+    font-size: 25px;
+
+
+}
+.star-rating {
+    padding: 2px;
+}
+.star-rating-rtl {
+    background: #555;
+    display: inline-block;
+    border: 2px solid #444;
+}
+.star-rating-rtl .star-s {
+    color: yellow;
+}
+.star-rating .star-s:hover:before,
+.star-rating .star-s.rated:before,
+.star-rating .star-s.active:before {
+    content: "\ee67";
+}
+.mt-30{
+    margin-top: 30px!important;
+}

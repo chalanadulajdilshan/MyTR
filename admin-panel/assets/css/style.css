@@ -1,0 +1,91 @@
+.br{
+    box-shadow: 0 0 0 2px #0071c2;
+
+    border-radius: 4px;
+
+    padding: 30px;
+}
+.f-12{
+    font-size: 12px;
+}
+.m-r-12{
+    margin-right: 12px;
+}
+
+.delete-btn{
+    border-radius: 4px;
+    background-color: #b70a0a;
+    color: white;
+    padding: 5px;
+}
+
+.edit-btn{
+    border-radius: 4px;
+    background-color: #1d076c;
+    color: white;
+    padding: 5px;
+}
+.succes-btn{
+    border-radius: 4px;
+    background-color: #036008;
+    color: white;
+    padding: 5px;
+}
+.info-btn{
+    border-radius: 4px;
+    background-color: #08758e;
+    color: white;
+    padding: 5px;
+}
+.warring-btn{
+    border-radius: 4px;
+    background-color: #f0ad4e;
+    color: white;
+    padding: 5px;
+}
+
+.delete-btn-p{
+    border-radius: 4px;
+    background-color: #b70a0a;
+    color: white;
+    padding: 5px;
+    position: absolute;
+    margin: 5px;
+}
+
+.f-50{
+    font-size: 50px;
+}
+.img-b-radius{
+    border-radius: 0px 4px 4px 0px;
+}
+.f-20{
+    font-size: 20px;
+}
+.f-24{
+    font-size: 24px;
+}
+.f-16{
+    font-size: 16px;
+}
+.p-a-15{
+    padding: 4PX 0px 4px 0px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.mt-40{
+    margin-top: 40px;
+}
+.back-basic-color{
+    background-color: #f2f4f4;
+    margin-bottom: 25px;
+}
+#basic-body{
+    padding: 10px!important; 
+    background-color: #f2f4f4!important; 
+}
+ 
+#m-b-20{
+    margin-bottom:20px!important; 
+}
